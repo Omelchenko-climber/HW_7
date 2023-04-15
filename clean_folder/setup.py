@@ -4,7 +4,7 @@ setup(
     name='clean_folder',
     version='0.0.0',
     description='sort_your_folder',
-    url='https://github.com/Origamiman/GoIT/tree/master/clean_folder',
+    url='https://github.com/Origamiman/GoIT_study/tree/main/clean_folder',
     author='Anton Omelchenko',
     author_email='omelchenko230783@gmail.com',
     license='MIT',
